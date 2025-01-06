@@ -1,0 +1,7 @@
+# Gradle Projektdateien
+.gradle
+build
+
+# JetBrains Projektdateien
+.idea
+*.xml
